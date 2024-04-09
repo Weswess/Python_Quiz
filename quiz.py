@@ -52,6 +52,12 @@ questions = [
         "options": ["A: Liver", "B: Skin", "C: Brain", "D: Heart"],
         "answer": "B"
     },
+    
+    {
+        "question": "Who is known as the "Father of Modern Physics"?",
+        "options": ["A: Terence Tao", "B: Steve hawkins", "C: Albert Einstein", "D: William James Sidis"],
+        "answer": "B"
+    },
 ]
 
 
